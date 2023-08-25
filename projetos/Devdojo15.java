@@ -1,7 +1,7 @@
 
 public class Devdojo15 {
     public static void main(String[] args) {
-        
+        //Array
         int [] [] dias = new int[3][3];
         dias [0][0]= 31;
         dias [0][1]= 28;
