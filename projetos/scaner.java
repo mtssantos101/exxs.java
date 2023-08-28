@@ -2,6 +2,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 public class scaner{
+// criar um sistema simples e funcional com o scanner 
     public static void main(String[] args) {
         Scanner scaner= new Scanner(System.in).useLocale(Locale.US);
 
