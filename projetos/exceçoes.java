@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.util.Locale;
 public class exceçoes{
-// criar um sistema simples e funcional com o scanner 
     public static void main(String[] args) {
     try{
         Scanner scaner= new Scanner(System.in).useLocale(Locale.US);
